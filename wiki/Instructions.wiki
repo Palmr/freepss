@@ -1,2 +1,3 @@
 #labels Featured,Phase-Deploy
-=[http://www.howtousea.com/palmnet_shoutbox Go Here!]=
+*[http://www.howtousea.com/palmnet_shoutbox Go Here!]*
+
