@@ -1,0 +1,49 @@
+body {
+	margin: 20px;
+	padding: 0px;
+	background-color: #AAC7F6;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: small;
+}
+#header {
+	background-image: url(header.jpg);
+	background-repeat: no-repeat;
+	width: 889px;
+}
+#page {
+	margin-right: auto;
+	margin-left: auto;
+	width: 889px;
+	background-image: url(bg.jpg);
+	background-repeat: repeat-y;
+	background-position: 0px -3px;
+}
+#footer {
+	background-image: url(footer.jpg);
+	background-repeat: no-repeat;
+	height: 96px;
+
+}
+.copy {
+	padding-top: 30px;
+	padding-left: 70px;
+}
+h1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: xx-large;
+	text-align: center;
+	padding-top: 55px;
+}
+#text {
+	height: 135px;
+}
+#menu {
+	height: 23px;
+	text-align: center;
+	padding-top: 7px;
+}
+#content {
+	padding-right: 30px;
+	padding-left: 30px;
+	text-align: center;
+}
