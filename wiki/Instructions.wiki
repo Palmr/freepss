@@ -1,3 +1,3 @@
-#labels Featured,Phase-Deploy
+#labels Phase-Deploy
 =The in depth guide on the shoutbox system is located on another wiki=
 *[http://www.howtousea.com/palmnet_shoutbox Find It Here!]*
