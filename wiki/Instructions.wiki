@@ -38,14 +38,14 @@ If you get a "Please tell the admin he has not set the permissions right on the 
 
 ==Anything else I need to know?==
 Yes! Just one more thing!
-In the username field put '+pass' and in the message field put '+edit' and hit "_Shout_"
+In the username field put '+pass' and in the message field put '+edit' and hit "Shout"
 You are now in the admin panel!
 Change the username to your nickname. Change the password field to something suitable.
 Leave the "Content file location" as it is. DO NOT CHANGE THIS!
 You can alter the number of items in the RSS feed, between 10-30 is acceptable really.
 Turn the timestamps on or off. Depends how you like it.
 And the other fields you can read [http://code.google.com/p/freepss/wiki/HowToCustomise Here] to find more info.
-Click "_Save Changes_" and everything is done.
+Click "Save Changes" and everything is done.
 
 
 ==You say done, but how do I add it to a website?==
