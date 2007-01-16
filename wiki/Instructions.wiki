@@ -1,4 +1,4 @@
-#labels Phase-Deploy
+#labels Phase-Deploy,Phase-Requirements
 =Evolution Group Shoutbox v1.0=
 Be warned, I do waffle here a little bit. But read it all. It's good to learn rather than skip and miss the important bits!
 
