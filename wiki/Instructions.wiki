@@ -33,7 +33,7 @@ So extract the archive, and upload the */shoutbox/* folder with all the files in
 If you don't know how to upload the file then you should try asking your web-hosts. If they cant tell you, or you don't know how to contact them, ask here if you are a Gaia member: [http://www.gaiaonline.com/forum/viewforum.php?f=43 Computers & Technology Forum]
 Once the files are uploaded you can start using it!
 Just goto the place you uploaded it to and try to post.
-If you get a "" message and no messages are posted then read [http://code.google.com/p/freepss/wiki/HowToCHMOD THIS].
+If you get a "Please tell the admin he has not set the permissions right on the '???' file." message and no messages are posted then read [http://code.google.com/p/freepss/wiki/HowToCHMOD THIS].
 
 
 ==Anything else I need to know?==
