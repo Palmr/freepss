@@ -1,2 +1,19 @@
 #labels Phase-Implementation,Phase-Design,Phase-Requirements
 =How to CHMOD a file on a web server=
+Small, and very, very basic guide to changing the permissions of a file on a web server.
+
+==What is CHMOD?==
+_The chmod command (abbreviated from *ch*ange *mod*e) is a shell command in Unix and Unix-like environments._
+This basically means its a system to set the permissions on files. It's used on `*`nix systems, and also with web servers.
+
+==How do I CHMOD a file?==
+You can usually do it one of two ways.
+Via web based systems, or via FTP.
+If via a web based system it's best to ask the people who host your site, as every web based system is different.
+If you're using an graphical FTP client you can usually just right click on a file and click "Properties" and edit the permissions in there.
+You may get asked to check boxes, if so, check all the permissions boxes you can.
+You may get asked to enter a number, try '0777' or just '777' to set permissions to full read/write access.
+
+==What files need their permissions changing?==
+Well any that say they do.
+If you get an error message, or no messages are being posted and no settings saved, then you need to set the 'content.txt' file and the 'config.php' file to full permissions for read/write. Thats a chmod of '0777'.
