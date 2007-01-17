@@ -27,6 +27,7 @@ http://shoutbox.palmnet.me.uk/guide_resources/saving.jpg
 ===Cut out and crop the to area you want the shoutbox bit to be in===
 We then flatten all the layers so make one single image, or you can close the shoutbox_source.png and open the jpeg to get the flattened layers.
 Once flattened select the region you want the shoutbox area to be in:
+
 http://shoutbox.palmnet.me.uk/guide_resources/make%20reigion.jpg
 
 Note down the X and Y values of this area, and then crop the document to that area:
@@ -34,6 +35,7 @@ Note down the X and Y values of this area, and then crop the document to that ar
 http://shoutbox.palmnet.me.uk/guide_resources/cropped.jpg
 
 Save this as a jpeg too:
+
 http://shoutbox.palmnet.me.uk/guide_resources/saving2.jpg
 
 ===Upload to the internet===
@@ -56,7 +58,6 @@ This needs to be the same X and Y values from when we selected the area earlier.
 This bit of the guide will let you know how to tweak the shoutbox and some of the stuff included you might not know about.
 
 ===Creating a new image===
-
 
 
 
