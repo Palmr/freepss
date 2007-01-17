@@ -14,6 +14,14 @@ If you're using an graphical FTP client you can usually just right click on a fi
 You may get asked to check boxes, if so, check all the permissions boxes you can.
 You may get asked to enter a number, try '0777' or just '777' to set permissions to full read/write access.
 
+===Using FireFTP===
+http://shoutbox.palmnet.me.uk/guide_resources/chmod1.jpg
+
+===Using web-based FileManager===
+http://shoutbox.palmnet.me.uk/guide_resources/chmod2-fm.jpg
+
+http://shoutbox.palmnet.me.uk/guide_resources/chmod2.jpg
+
 ==What files need their permissions changing?==
 Well any that say they do.
 If you get an error message, or no messages are being posted and no settings saved, then you need to set the 'content.txt' file and the 'config.php' file to full permissions for read/write. Thats a chmod of '0777'.
