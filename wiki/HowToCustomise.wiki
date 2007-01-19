@@ -58,7 +58,54 @@ This needs to be the same X and Y values from when we selected the area earlier.
 This bit of the guide will let you know how to tweak the shoutbox and some of the stuff included you might not know about.
 
 ===Creating a new image===
+Well this step, you just need to make a new base image for the shoutbox.
+I took an image of my mp3 player as my base.
+So open the image you want to make into a shoutbox, or if starting with a fresh, totally hand made design make that:
 
+http://shoutbox.palmnet.me.uk/guide_resources/tc_original.jpg
 
+===Make an area for the shoutbox===
+I chose to use the screen area here, but you can choose any sized area from anywhere on the image, so long as it's a rectangle.
+Anyway, try to make it have a relatively plain background, so that the text shows up clearly all over. I had to cover over the old screen to do this:
 
+http://shoutbox.palmnet.me.uk/guide_resources/tc_shoutbox.jpg
 
+Then save this base image. I called it "shoutbox2.jpg". Make sure its a jpeg image!
+
+===Cut out the shoutbox area===
+Now you need to cut out the area that's going to be the shoutbox, and save that as a new image.
+When you cut it out don't forget to get the X and Y coordinates of where the top left corner is:
+
+http://shoutbox.palmnet.me.uk/guide_resources/tc_coords.jpg
+
+So once those coords are noted down, cut and save the shoutbox area. I called this "background2.jpg". Don't forget that jpeg format again!
+
+http://shoutbox.palmnet.me.uk/guide_resources/tc_background.jpg
+
+===Upload and change the settings===
+You then upload the images. I uploaded them to the same directory as the .php files, rather than in the /design/ folder. So this is how my settings looked:
+
+http://shoutbox.palmnet.me.uk/guide_resources/tc_settings.jpg
+
+Note how the X and Y coords work.
+Then, clicked "Save changes" and it's done:
+
+http://shoutbox.palmnet.me.uk/guide_resources/tc_done.jpg
+
+===Changing text colour===
+To change the colour of the text on the shoutbox you get into the admin settings. Password in the username box, '+edit' in the message box.
+Then once in there find the "Text colour: #" text box.
+This has 6 numbers or letters in. numbers 0-9 and letters A-F.
+The colour format used in here is called "Hexadecimal". If you know what that is then you can just guess to get the colour you like, otherwise use a tool like [http://www.free-webmaster-tools.com/colorpicker.htm#colorpicker This] To pick a colour, then copy the Hex code from below it.
+Put this in to the "Text colour: #" and click "Save changes" and you're done!
+
+===Shadows===
+To enable/disable shadowing on text in the shoutbox you can check/un-check the "Shadow:" checkbox.
+To change the colour of the Shadow for the text find the "Shadow colour: #" text box.
+This has 6 numbers or letters in. numbers 0-9 and letters A-F.
+The colour format used in here is called "Hexadecimal". If you know what that is then you can just guess to get the colour you like, otherwise use a tool like [http://www.free-webmaster-tools.com/colorpicker.htm#colorpicker This] To pick a colour, then copy the Hex code from below it.
+Put this in to the "Shadow colour: #" and click "Save changes" and you're done!
+  * Shadow text is usually best kept the same colour, but a different shade. So lighter or darker values of the text colour might be best.
+
+===Timestamps===
+To enable/disable timestamps in the shoutbox you can check/un-check the "Timestamps:" checkbox.
