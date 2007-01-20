@@ -1,0 +1,102 @@
+body {
+	margin: 20px;
+	padding: 0px;
+	background-color: #AAC7F6;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: small;
+}
+#header {
+	background-image: url(header.jpg);
+	background-repeat: no-repeat;
+	width: 889px;
+}
+#page {
+	margin-right: auto;
+	margin-left: auto;
+	width: 889px;
+	background-image: url(bg.jpg);
+	background-repeat: repeat-y;
+	background-position: 0px -3px;
+}
+#footer {
+	background-image: url(footer.jpg);
+	background-repeat: no-repeat;
+	height: 96px;
+
+}
+.copy {
+	padding-top: 30px;
+	padding-left: 70px;
+}
+h1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: xx-large;
+	text-align: center;
+	padding-top: 55px;
+}
+#text {
+	height: 135px;
+}
+#menu {
+	height: 23px;
+	text-align: center;
+	padding-top: 7px;
+}
+#content {
+	padding-right: 30px;
+	padding-left: 30px;
+	text-align: center;
+}
+#error {
+	color:#FF0000;
+	font-weight:bold;
+}
+#options {
+	position: relative;
+	margin-right: auto;
+	margin-left: auto;
+	width: 300px;
+	padding-left: 22px; 
+}
+#navlist li {
+	float: left;
+	margin: 0;
+	padding: 0;
+	width: auto;
+	display: block;
+}
+#navlist li a, #navlist li a:link {
+	color: #000000;
+	text-decoration: none;
+	padding: 3px 5px;
+	display: block;
+	margin-right: 3px;
+}
+#navlist li a:hover {
+	background: #C1D7F9;
+}
+#navlist li a#older, #navlist li a#older:link {
+	background-image: url(older.gif);
+	padding-left: 23px;
+	background-repeat: no-repeat;
+	background-position: 2px center;
+}
+#navlist li a#newer, #navlist li a#newer:link {
+	background-image: url(newer.gif);
+	background-repeat: no-repeat;
+	background-position: right center;
+	padding-right: 23px;
+}
+.dim {
+	color:#777777;
+	font-size:small;
+}
+.dimmer {
+	color:#BBBBBB;
+	font-size:smaller;
+}
+.focus {
+	font-weight:bold;
+	font-size:larger;
+	color:#373737;
+}
